@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/RCRS-ADF/core.git
+[submodule "modules"]
+	path = modules
+	url = https://github.com/RCRS-ADF/modules.git
+[submodule "sample"]
+	path = sample
+	url = https://github.com/RCRS-ADF/sample.git
